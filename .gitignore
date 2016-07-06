@@ -1,0 +1,9 @@
+\.orig$
+\.pyc$
+\.DS_Store$
+build/
+\.so$
+\.pyx$
+\.pxd$
+_proxy\.cpp
+^test_module/
